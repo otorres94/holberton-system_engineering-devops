@@ -1,0 +1,36 @@
+total 48
+drwxrwxr-x 2 saint saint 4096 sep 18 00:43 .
+drwxrwxr-x 5 saint saint 4096 sep 17 23:41 ..
+-rwxr-xr-x 1 saint saint   32 sep 18 00:18 0-hello_world
+-rw-rw-r-- 1 saint saint    0 sep 18 00:24 10-no_more_js
+-rw-rw-r-- 1 saint saint    0 sep 18 00:24 11-directories
+-rw-rw-r-- 1 saint saint    0 sep 18 00:24 12-newest_files
+-rw-rw-r-- 1 saint saint    0 sep 18 00:25 13-unique
+-rw-rw-r-- 1 saint saint    0 sep 18 00:25 14-findthatword
+-rw-rw-r-- 1 saint saint    0 sep 18 00:25 15-countthatword
+-rw-rw-r-- 1 saint saint    0 sep 18 00:25 16-whatsnext
+-rw-rw-r-- 1 saint saint    0 sep 18 00:26 17-hidethisword
+-rw-rw-r-- 1 saint saint    0 sep 18 00:26 18-letteronly
+-rw-rw-r-- 1 saint saint    0 sep 18 00:26 19-AZ
+-rwxr-xr-x 1 saint saint   27 sep 18 00:29 1-confused_smiley
+-rw-rw-r-- 1 saint saint    0 sep 18 00:21 1-confused_smiley~
+-rw-rw-r-- 1 saint saint    0 sep 18 00:27 20-hiago
+-rw-rw-r-- 1 saint saint    0 sep 18 00:27 21-reverse
+-rw-rw-r-- 1 saint saint    0 sep 18 00:27 22-users_and_homes
+-rwxr-xr-x 1 saint saint   27 sep 18 00:30 2-hellofile
+-rw-rw-r-- 1 saint saint    0 sep 18 00:21 2-hellofile~
+-rwxr-xr-x 1 saint saint   38 sep 18 00:31 3-twofiles
+-rw-rw-r-- 1 saint saint    0 sep 18 00:21 3-twofiles~
+-rwxr-xr-x 1 saint saint   28 sep 18 00:34 4-lastlines
+-rw-rw-r-- 1 saint saint    0 sep 18 00:22 4-lastlines~
+-rwxr-xr-x 1 saint saint   28 sep 18 00:36 5-firstlines
+-rw-rw-r-- 1 saint saint    0 sep 18 00:22 5-firstlines~
+-rwxr-xr-x 1 saint saint   35 sep 18 00:37 6-third_line
+-rw-rw-r-- 1 saint saint    0 sep 18 00:22 6-third_line~
+-rwxr-xr-x 1 saint saint  100 sep 18 00:41 7-file
+-rw-rw-r-- 1 saint saint    0 sep 18 00:22 7-file~
+-rwxr-xr-x 1 saint saint   35 sep 18 00:43 8-cwd_state
+-rw-rw-r-- 1 saint saint    0 sep 18 00:23 8-cwd_state~
+-rw-rw-r-- 1 saint saint    0 sep 18 00:23 9-duplicate_last_line
+-rw-rw-r-- 1 saint saint   17 sep 18 00:41 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 saint saint    0 sep 18 00:43 ls_cwd_content
